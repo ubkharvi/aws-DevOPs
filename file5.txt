@@ -7,7 +7,7 @@
 
 <h1>Welcome to My DevOps Project1</h1>
 
-<p>This is my first DevOps project website.</p>
+<p>This is my first DevOps project website. twant test, deploy. </p>
 
 <h2>Technologies Used</h2>
 <ul>
