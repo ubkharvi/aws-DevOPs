@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DevOps Project</title>
+</head>
+<body>
+
+<h1>Welcome to My DevOps Project1</h1>
+
+<p>This is my first DevOps project website. twant test, deploy. </p>
+
+<h2>Technologies Used</h2>
+<ul>
+    <li>HTML</li>
+    <li>Git</li>
+    <li>GitHub</li>
+    <li>AWS</li>
+</ul>
+
+<button onclick="showMessage()">Click Here</button>
+
+<script>
+function showMessage() {
+    alert("DevOps Project is Successfully Working!");
+}
+</script>
+
+</body>
+</html>
+
